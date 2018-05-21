@@ -1,2 +1,2 @@
 # Python-3.6
-Uploading my python codes.
+Uploading some of my python codes.
